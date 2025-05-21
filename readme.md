@@ -26,7 +26,7 @@ dotenv for environment config
 bash
 Copy
 Edit
-git clone https://github.com/your-username/book-review-api.git
+git clone https://github.com/Goutham-H-A/book-review-api.git
 cd book-review-api
 2. Install dependencies
 bash
@@ -208,4 +208,3 @@ Postman
 
 curl via command line
 
-Swagger UI (optional)
